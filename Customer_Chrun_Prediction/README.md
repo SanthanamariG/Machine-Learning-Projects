@@ -11,7 +11,8 @@ Best recorded comparison: Logistic Regression
 - Precision: 64.85%
 - Recall: 57.22%
 - F1-score: 60.80%
-The notebook separately saves a Random Forest model for the Streamlit workflow; the Logistic Regression metrics above are not the measured performance of that saved app model.
+
+- The notebook separately saves a Random Forest model for the Streamlit workflow; the Logistic Regression metrics above are not the measured performance of that saved app  model.
 Tech Stack
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, Matplotlib, Seaborn, Joblib.
 Run
