@@ -12,10 +12,6 @@ Best recorded comparison: Logistic Regression
 - Recall: 57.22%
 - F1-score: 60.80%
 
-- The notebook separately saves a Random Forest model for the Streamlit workflow; the Logistic Regression metrics above are not the measured performance of that saved app  model.
-Tech Stack
-Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, Matplotlib, Seaborn, Joblib.
-Run
-Install the required packages, run the notebook to prepare the data and model files, then start the app:
-pip install pandas numpy scikit-learn xgboost streamlit matplotlib seaborn joblib
-streamlit run app.py
+- Tech Stack: Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, and Joblib.
+
+- Execution: Install dependencies using pip install -r requirements.txt and launch the application   using streamlit run app.py.
