@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Machine Learning Projects
 
-Welcome to my Machine Learning Projects repository! This repository contains machine learning projects developed to solve real-world problems using data analysis, data preprocessing, feature engineering, and machine learning algorithms.
+This repository contains machine learning projects developed to solve real-world problems using data analysis, data preprocessing, feature engineering, and machine learning algorithms.
 
 ## Projects
 
@@ -62,6 +61,3 @@ Welcome to my Machine Learning Projects repository! This repository contains mac
 - Build and evaluate machine learning models.
 - Improve model performance through feature engineering and algorithm selection.
 ---
-=======
-Machine Learning Projects
->>>>>>> 75f4913c93ffba0814c002c5c96a4004c68d961b
