@@ -61,5 +61,3 @@ Welcome to my Machine Learning Projects repository! This repository contains mac
 - Build and evaluate machine learning models.
 - Improve model performance through feature engineering and algorithm selection.
 ---
-
-If you find this repository useful, feel free to explore the projects!
