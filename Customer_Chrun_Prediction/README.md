@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Customer Churn Prediction Using Machine Learning
 
 ## Project Overview
@@ -258,11 +257,6 @@ Model artifact:
 
 `churn_model.pkl`
 
-Additional preprocessing artifacts:
-
-- `scaler.pkl`
-- `columns.pkl`
-
 These files support loading the trained model and maintaining the feature preprocessing structure for future predictions.
 
 ## Streamlit Web Application
@@ -347,15 +341,11 @@ Linux:
 source venv/bin/activate
 ```
 
-### Step 6: Run the Streamlit Application
+### Step 5: Run the Streamlit Application
 
 ```bash
 streamlit run src/app.py
 ```
-
-Open the local application URL displayed in your terminal.
-
-**Note:** The dataset path, model artifact paths, and application imports must match your actual repository structure.
 
 ## Requirements
 
@@ -397,22 +387,3 @@ Through this project, I gained practical experience in:
 - Evaluating models using classification metrics.
 - Saving and loading trained models.
 - Building interactive applications using Streamlit.
-=======
-Customer Churn Prediction Using Machine Learning
-A machine learning project that predicts whether a telecom customer is likely to leave a service.
-Features
-- Cleaned and prepared 7,043 customer records (7,032 after removing 11 rows with missing TotalCharges).
-- Applied categorical encoding, one-hot encoding, and feature scaling.
-- Compared Logistic Regression, Random Forest, XGBoost, SVM, and KNN.
-- Built a Streamlit interface that accepts 19 customer inputs and displays a churn prediction.
-Results
-Best recorded comparison: Logistic Regression
-- Accuracy: 80.38%
-- Precision: 64.85%
-- Recall: 57.22%
-- F1-score: 60.80%
-
-- Tech Stack: Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib, Seaborn, and Joblib.
-
-- Execution: Install dependencies using pip install -r requirements.txt and launch the application   using streamlit run app.py.
->>>>>>> 75f4913c93ffba0814c002c5c96a4004c68d961b
