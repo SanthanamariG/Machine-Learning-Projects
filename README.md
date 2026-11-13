@@ -60,8 +60,5 @@ This repository contains machine learning projects developed to solve real-world
 - Analyze datasets using exploratory data analysis.
 - Build and evaluate machine learning models.
 - Improve model performance through feature engineering and algorithm selection.
-<<<<<<< HEAD
----
-=======
 ---
 >>>>>>> 1430dcbb638e5ceab5b736f76bbae4f299b4f1b4
